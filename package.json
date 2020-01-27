@@ -1,0 +1,19 @@
+{
+  "name": "lrucache",
+  "version": "1.0.0",
+  "description": "A LRU cache implementation in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinp-git/lrucache.git"
+  },
+  "author": "Sachin Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinp-git/lrucache/issues"
+  },
+  "homepage": "https://github.com/sachinp-git/lrucache#readme"
+}
